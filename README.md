@@ -1,2 +1,2 @@
-# monaco-editor-api-cn
-Monaco Editor API 中文文档
+# monaco-editor-cn
+Monaco Editor 中文文档
